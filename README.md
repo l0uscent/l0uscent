@@ -1,16 +1,13 @@
-## Hi there 👋
+<div id="header" align="center">
 
-<!--
-**l0uscent/l0uscent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=l0uscent&label=⠀⠀⠀✶⠀⠀⠀&style=plastic&color=bf2c45)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+
+<img src="https://i.pinimg.com/originals/0b/f5/cb/0bf5cb88d510dbb7429c05a00f05b1e2.gif">
+
+<div id="header" align="center">
+
+<div id="header" align="center">
