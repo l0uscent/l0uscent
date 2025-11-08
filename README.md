@@ -12,6 +12,10 @@
 
 <div id="header" align="center">
 
+ ![.](https://pixels.crd.co/assets/images/gallery02/f354904b.gif?v=29416114)
+
 <div id="header" align="center">
 
 <div id="header" align="center">
+
+[ata](https://lousc3nt.atabook.org/)  [rentry](https://rentry.co/love4walls)  [guns.lol](https://guns.lol/louzerz)
