@@ -14,7 +14,7 @@
 
 <div id="header" align="center">
 
-[ata](https://lousc3nt.atabook.org/)ㅤㅤ [rentry](https://rentry.co/love4walls)ㅤㅤ[guns.lol](https://guns.lol/louzerz) ㅤㅤ[gang](https://thegng.straw.page/)
+[ata](https://lousc3nt.atabook.org/)ㅤㅤ [rentry](https://rentry.co/love4walls)ㅤㅤ[guns.lol](https://guns.lol/louzerz) ㅤ
 
  ![.](https://pixels.crd.co/assets/images/gallery119/277e09ff.gif?v=29416114)
 
