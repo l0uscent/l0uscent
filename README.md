@@ -16,4 +16,3 @@
 
  [ata](https://lousc3nt.atabook.org/)ㅤㅤ [rentry](https://rentry.co/love4walls)ㅤㅤ[guns.lol](https://guns.lol/louzerz) ㅤ
 
-![.](https://dividers.crd.co/assets/images/gallery05/8bafa8a1.gif?v=05d33f91)
