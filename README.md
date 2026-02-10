@@ -17,5 +17,5 @@
      
 [ATABOOK](https://lousc3nt.atabook.org/)     ㅤㅤ      ㅤㅤ [RENTRY](https://rentry.co/love4walls)     ㅤㅤ      ㅤㅤ [GUNS.LOL](https://guns.lol/louzerz) ㅤ
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ti23gqydwoquypxd9xhohr7rf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=892a2a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ti23gqydwoquypxd9xhohr7rf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=791616&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
